@@ -113,5 +113,4 @@ p {
 
 .container:hover p {
     display: block;
-    transition-delay: 3s;
 }
