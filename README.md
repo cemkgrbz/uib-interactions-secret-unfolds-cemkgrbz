@@ -22,4 +22,4 @@ Create an animation that works like the example shown below.
 
 - Experiment with `transition-delay`
 
-Good luck and have fun!
+Good luck and have fun! 
