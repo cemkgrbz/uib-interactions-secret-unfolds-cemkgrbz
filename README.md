@@ -3,7 +3,7 @@
 https://cemkgrbz.github.io/uib-interactions-secret-unfolds-cemkgrbz/
 
 # Secret Unfolds 
-
+ 
 Create an animation that works like the example shown below.
 
 ![secret](secret-unfolds.gif)
